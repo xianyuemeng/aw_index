@@ -1,0 +1,163 @@
+body {
+	padding:o;
+	margin:0;
+	text-align:center;
+	
+}
+
+.t {
+	float:left;
+	width:100%;
+	height:10px;
+	overflow:hidden;
+	clear:both;
+}
+
+#container {
+	width:1600px;
+	margin:0 auto;
+	text-align:left;
+}
+
+#header {
+	float:left;
+	width:100%;
+	
+}
+
+#logo {
+	padding-top:10px;
+	float:left;
+	width:380px;
+	height:150px;
+	
+}
+
+#banner {
+	float:left;
+	margin-left:10px;
+	width:930px;
+	height:160px;
+	background:#FFFFFF;
+}
+
+#tool {
+	float:right;
+	width:270px;
+	height:160px;
+	background:#FFFFFF;
+}
+
+#nav {
+	float:left;
+	width:100%;
+	height:30px;
+	background:#444444;
+	
+}
+
+#content {
+	float:left;
+	width:100%;
+
+}
+
+.main {
+	float:left;
+	width:1010px;
+}
+
+.main .left {
+	float:left;
+	width:400px;
+	height:200px;
+	
+}
+
+.main .right {
+	float:right;
+	width:600px;
+	height:200px;
+}
+
+a {
+	color:#444444;
+}
+
+.tit {
+	width:100%;
+	height:26px;
+	background:#B7472A;
+}
+
+.tit h3 {
+	margin:0px;
+	padding:0px;
+	font-size:15px;
+	text-align:center;
+	width:150px;
+	line-height:26px;
+	color:#FFFFFF;
+}
+
+.con {
+	width:100%;
+	height:174px;
+	border:1px solid #444444;
+}
+
+.con ul {
+	margin:5px 10px;
+}
+
+.con li a {
+	background:url(../images/alien2.png) no-repeat left center;
+	padding-left:15px;
+}
+
+.cw_1 {
+	width:398px;
+	height:172px;
+}
+
+.cw_2 {
+	width:598px;
+	height:172px;
+}
+
+.right .cli li {
+	width:50%;
+	float:left;
+}
+
+.barside {
+	float:right;
+	width:580px;
+	background:#FFFFFF;
+}
+
+.barside_h1 {
+	padding-top:60px;
+	height:350px
+}
+.barside_h2 {
+	padding-top:0px;
+	height:620px;
+}
+
+.ad {
+	float:left;
+	width:100%;
+	height:100px;
+	clear:both;
+	background:#B7472A;
+	
+}
+
+#footer {
+	float:left;
+	width:100%;
+	height:150px; /*tmp*/
+	background:#ccc;
+}
+
